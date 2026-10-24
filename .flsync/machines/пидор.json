@@ -1,0 +1,1246 @@
+{
+  "user": "пидор",
+  "os": "Windows",
+  "flVersion": "21.2.3.4004",
+  "updated": "2026-10-24 19:46",
+  "plugins": [
+    {
+      "name": "3x Osc",
+      "format": "FL"
+    },
+    {
+      "name": "Acid V",
+      "format": "VST3"
+    },
+    {
+      "name": "Analog Lab V",
+      "format": "VST3"
+    },
+    {
+      "name": "ARP 2600 V3",
+      "format": "VST3"
+    },
+    {
+      "name": "Augmented BRASS",
+      "format": "VST3"
+    },
+    {
+      "name": "Augmented GRAND PIANO",
+      "format": "VST3"
+    },
+    {
+      "name": "Augmented STRINGS",
+      "format": "VST3"
+    },
+    {
+      "name": "Augmented VOICES",
+      "format": "VST3"
+    },
+    {
+      "name": "Augmented WOODWINDS",
+      "format": "VST3"
+    },
+    {
+      "name": "Augmented YANGTZE",
+      "format": "VST3"
+    },
+    {
+      "name": "Auto-Key",
+      "format": "VST3",
+      "version": "1.1.0.0"
+    },
+    {
+      "name": "Auto-Tune Pro",
+      "format": "VST3",
+      "version": "10.1.0.0"
+    },
+    {
+      "name": "Autogun",
+      "format": "FL"
+    },
+    {
+      "name": "B-3 V2",
+      "format": "VST3"
+    },
+    {
+      "name": "BassDrum",
+      "format": "FL"
+    },
+    {
+      "name": "BeepMap",
+      "format": "FL"
+    },
+    {
+      "name": "BooBass",
+      "format": "FL"
+    },
+    {
+      "name": "Buchla Easel V",
+      "format": "VST3"
+    },
+    {
+      "name": "Cassette",
+      "format": "VST3",
+      "version": "1.0.6.0"
+    },
+    {
+      "name": "Clavinet V",
+      "format": "VST3"
+    },
+    {
+      "name": "CMI V",
+      "format": "VST3"
+    },
+    {
+      "name": "Control Surface",
+      "format": "FL"
+    },
+    {
+      "name": "CP-70 V",
+      "format": "VST3"
+    },
+    {
+      "name": "Cramit",
+      "format": "VST3",
+      "version": "1.2.3.0"
+    },
+    {
+      "name": "CS-80 V4",
+      "format": "VST3"
+    },
+    {
+      "name": "CZ V",
+      "format": "VST3"
+    },
+    {
+      "name": "D-50",
+      "format": "VST3"
+    },
+    {
+      "name": "Dashboard",
+      "format": "FL"
+    },
+    {
+      "name": "DirectWave",
+      "format": "FL"
+    },
+    {
+      "name": "Distructor",
+      "format": "FL"
+    },
+    {
+      "name": "Diva(x64)",
+      "format": "VST3"
+    },
+    {
+      "name": "Drumaxx",
+      "format": "FL"
+    },
+    {
+      "name": "Drumpad",
+      "format": "FL"
+    },
+    {
+      "name": "DX7 V",
+      "format": "VST3"
+    },
+    {
+      "name": "Echo Cat",
+      "format": "VST3",
+      "version": "1.0.1.0"
+    },
+    {
+      "name": "Edison",
+      "format": "FL"
+    },
+    {
+      "name": "Effector",
+      "format": "FL"
+    },
+    {
+      "name": "Emulator II V",
+      "format": "VST3"
+    },
+    {
+      "name": "EQUO",
+      "format": "FL"
+    },
+    {
+      "name": "FabFilter Micro",
+      "format": "VST3",
+      "version": "1.2.9.27"
+    },
+    {
+      "name": "FabFilter One",
+      "format": "VST3",
+      "version": "3.4.0.45"
+    },
+    {
+      "name": "FabFilter Pro-C 2",
+      "format": "VST3",
+      "version": "2.2.0.45"
+    },
+    {
+      "name": "FabFilter Pro-DS",
+      "format": "VST3",
+      "version": "1.2.4.29"
+    },
+    {
+      "name": "FabFilter Pro-G",
+      "format": "VST3",
+      "version": "1.3.4.33"
+    },
+    {
+      "name": "FabFilter Pro-L 2",
+      "format": "VST3",
+      "version": "2.2.4.40"
+    },
+    {
+      "name": "FabFilter Pro-MB",
+      "format": "VST3",
+      "version": "1.3.1.27"
+    },
+    {
+      "name": "FabFilter Pro-Q 4",
+      "format": "VST2",
+      "version": "4.0.1.6"
+    },
+    {
+      "name": "FabFilter Pro-Q 4",
+      "format": "VST3",
+      "version": "4.0.1.6"
+    },
+    {
+      "name": "FabFilter Pro-Q 4",
+      "format": "CLAP",
+      "version": "4.0.1.6"
+    },
+    {
+      "name": "FabFilter Pro-R 2",
+      "format": "VST3",
+      "version": "2.0.4.23"
+    },
+    {
+      "name": "FabFilter Saturn 2",
+      "format": "VST3",
+      "version": "2.1.1.13"
+    },
+    {
+      "name": "FabFilter Simplon",
+      "format": "VST3",
+      "version": "1.3.9.34"
+    },
+    {
+      "name": "FabFilter Timeless 3",
+      "format": "VST3",
+      "version": "3.0.8.49"
+    },
+    {
+      "name": "FabFilter Twin 3",
+      "format": "VST3",
+      "version": "3.0.5.64"
+    },
+    {
+      "name": "FabFilter Volcano 3",
+      "format": "VST3",
+      "version": "3.0.7.58"
+    },
+    {
+      "name": "Farfisa V",
+      "format": "VST3"
+    },
+    {
+      "name": "FL Keys",
+      "format": "FL"
+    },
+    {
+      "name": "FL Slayer",
+      "format": "FL"
+    },
+    {
+      "name": "FL Studio Mobile",
+      "format": "FL"
+    },
+    {
+      "name": "FLEX",
+      "format": "FL"
+    },
+    {
+      "name": "FPC",
+      "format": "FL"
+    },
+    {
+      "name": "Frequency Shifter",
+      "format": "FL"
+    },
+    {
+      "name": "Frequency Splitter",
+      "format": "FL"
+    },
+    {
+      "name": "Fresh Air",
+      "format": "VST3",
+      "version": "0.0.0.0"
+    },
+    {
+      "name": "Fruit Kick",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity 7 Band EQ",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Balance",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Bass Boost",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Big Clock",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Blood Overdrive",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Center",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Chorus",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Compressor",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Convolver",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Dance",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity dB Meter",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Delay",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Delay 2",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Delay 3",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Delay Bank",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity DrumSynth Live",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity DX10",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Envelope Controller",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Fast Dist",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Fast LP",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Filter",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Flanger",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Flangus",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Formula Controller",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Free Filter",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Granulizer",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity HTML NoteBook",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Keyboard Controller",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Limiter",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Love Philter",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity LSD",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Multiband Compressor",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Mute 2",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity NoteBook",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity NoteBook 2",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity PanOMatic",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Parametric EQ",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Parametric EQ 2",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Peak Controller",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Phase Inverter",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Phaser",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Reeverb",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Reeverb 2",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Scratcher",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Send",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Slicer",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Soft Clipper",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Spectroman",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Squeeze",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Stereo Enhancer",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Stereo Shaper",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Video Player",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Vocoder",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Voltage Controller",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity WaveShaper",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity Wrapper",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity X-Y Controller",
+      "format": "FL"
+    },
+    {
+      "name": "Fruity X-Y-Z Controller",
+      "format": "FL"
+    },
+    {
+      "name": "GMS",
+      "format": "FL"
+    },
+    {
+      "name": "Gross Beat",
+      "format": "FL"
+    },
+    {
+      "name": "Guitar Rig 7",
+      "format": "VST3",
+      "version": "7.0.2.0"
+    },
+    {
+      "name": "Hardcore",
+      "format": "FL"
+    },
+    {
+      "name": "Harmless",
+      "format": "FL"
+    },
+    {
+      "name": "Harmor",
+      "format": "FL"
+    },
+    {
+      "name": "Hive(x64)",
+      "format": "VST3"
+    },
+    {
+      "name": "Hyper Chorus",
+      "format": "FL"
+    },
+    {
+      "name": "JD-800",
+      "format": "VST3"
+    },
+    {
+      "name": "Jun-6 V",
+      "format": "VST3"
+    },
+    {
+      "name": "JUNO-106",
+      "format": "VST3"
+    },
+    {
+      "name": "JUNO-60",
+      "format": "VST3"
+    },
+    {
+      "name": "JUNO-60 CHORUS",
+      "format": "VST3"
+    },
+    {
+      "name": "Jup-8 V4",
+      "format": "VST3"
+    },
+    {
+      "name": "JUPITER-4",
+      "format": "VST3"
+    },
+    {
+      "name": "JUPITER-8",
+      "format": "VST3"
+    },
+    {
+      "name": "JV-1080",
+      "format": "VST3"
+    },
+    {
+      "name": "JX-3P",
+      "format": "VST3"
+    },
+    {
+      "name": "Kepler",
+      "format": "FL"
+    },
+    {
+      "name": "KORG MS-20 V",
+      "format": "VST3"
+    },
+    {
+      "name": "Lukyan Synth",
+      "format": "VST3"
+    },
+    {
+      "name": "Lukyan Synth",
+      "format": "CLAP"
+    },
+    {
+      "name": "Luxeverb",
+      "format": "FL"
+    },
+    {
+      "name": "Matrix-12 V2",
+      "format": "VST3"
+    },
+    {
+      "name": "Maximus",
+      "format": "FL"
+    },
+    {
+      "name": "Mellotron V",
+      "format": "VST3"
+    },
+    {
+      "name": "Micro",
+      "format": "VST3",
+      "version": "1.2.9.27"
+    },
+    {
+      "name": "MIDI Out",
+      "format": "FL"
+    },
+    {
+      "name": "Mini V4",
+      "format": "VST3"
+    },
+    {
+      "name": "MiniBrute V",
+      "format": "VST3"
+    },
+    {
+      "name": "MiniFreak V",
+      "format": "VST3"
+    },
+    {
+      "name": "Minisynth",
+      "format": "FL"
+    },
+    {
+      "name": "MODO BASS",
+      "format": "VST2",
+      "version": "1.5.2.0"
+    },
+    {
+      "name": "MODO BASS",
+      "format": "VST3",
+      "version": "1.5.2.0"
+    },
+    {
+      "name": "Modular V3",
+      "format": "VST3"
+    },
+    {
+      "name": "Morphine",
+      "format": "FL"
+    },
+    {
+      "name": "Multiband Delay",
+      "format": "FL"
+    },
+    {
+      "name": "Newtime",
+      "format": "FL"
+    },
+    {
+      "name": "Newtone",
+      "format": "FL"
+    },
+    {
+      "name": "Ogun",
+      "format": "FL"
+    },
+    {
+      "name": "One",
+      "format": "VST3",
+      "version": "3.4.0.45"
+    },
+    {
+      "name": "OP-Xa V",
+      "format": "VST3"
+    },
+    {
+      "name": "Ozone 11",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Clarity",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Dynamic EQ",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Dynamics",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Equalizer",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Exciter",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Imager",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Impact",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Low End Focus",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Master Rebalance",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Match EQ",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Maximizer",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Spectral Shaper",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Stabilizer",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Vintage Compressor",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Vintage EQ",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Vintage Limiter",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "Ozone 11 Vintage Tape",
+      "format": "VST3",
+      "version": "11.0.1.3067"
+    },
+    {
+      "name": "PanCake2-64bit",
+      "format": "VST2",
+      "version": "2.3.1.0"
+    },
+    {
+      "name": "Patcher",
+      "format": "FL"
+    },
+    {
+      "name": "Piano V3",
+      "format": "VST3"
+    },
+    {
+      "name": "Pigments",
+      "format": "VST3"
+    },
+    {
+      "name": "Pitch Shifter",
+      "format": "FL"
+    },
+    {
+      "name": "Pitcher",
+      "format": "FL"
+    },
+    {
+      "name": "Plucked!",
+      "format": "FL"
+    },
+    {
+      "name": "PoiZone",
+      "format": "FL"
+    },
+    {
+      "name": "Portal",
+      "format": "VST3",
+      "version": "255.36566.52063.64997"
+    },
+    {
+      "name": "Pro-C 2",
+      "format": "VST3",
+      "version": "2.2.0.45"
+    },
+    {
+      "name": "Pro-DS",
+      "format": "VST3",
+      "version": "1.2.4.29"
+    },
+    {
+      "name": "Pro-G",
+      "format": "VST3",
+      "version": "1.3.4.33"
+    },
+    {
+      "name": "Pro-L 2",
+      "format": "VST3",
+      "version": "2.2.4.40"
+    },
+    {
+      "name": "Pro-MB",
+      "format": "VST3",
+      "version": "1.3.1.27"
+    },
+    {
+      "name": "Pro-Q 4",
+      "format": "VST3",
+      "version": "4.0.1.6"
+    },
+    {
+      "name": "Pro-R 2",
+      "format": "VST3",
+      "version": "2.0.4.23"
+    },
+    {
+      "name": "PROMARS",
+      "format": "VST3"
+    },
+    {
+      "name": "Prophet-5 V",
+      "format": "VST3"
+    },
+    {
+      "name": "Prophet-VS V",
+      "format": "VST3"
+    },
+    {
+      "name": "Razer Chroma",
+      "format": "FL"
+    },
+    {
+      "name": "RC-20 Retro Color",
+      "format": "VST3",
+      "version": "1.3.0.0"
+    },
+    {
+      "name": "ReWired",
+      "format": "FL"
+    },
+    {
+      "name": "Sakura",
+      "format": "FL"
+    },
+    {
+      "name": "Saturn 2",
+      "format": "VST3",
+      "version": "2.1.1.13"
+    },
+    {
+      "name": "Sawer",
+      "format": "FL"
+    },
+    {
+      "name": "SEM V2",
+      "format": "VST3"
+    },
+    {
+      "name": "SH-101",
+      "format": "VST3"
+    },
+    {
+      "name": "SH-2",
+      "format": "VST3"
+    },
+    {
+      "name": "ShaperBox 3",
+      "format": "VST3",
+      "version": "3.5.1.0"
+    },
+    {
+      "name": "Simplon",
+      "format": "VST3",
+      "version": "1.3.9.34"
+    },
+    {
+      "name": "SimSynth",
+      "format": "FL"
+    },
+    {
+      "name": "Slicex",
+      "format": "FL"
+    },
+    {
+      "name": "Solina V2",
+      "format": "VST3"
+    },
+    {
+      "name": "soothe2_x64",
+      "format": "VST3",
+      "version": "1.1.2.0"
+    },
+    {
+      "name": "Sophistry",
+      "format": "VST2"
+    },
+    {
+      "name": "Soundfont Player",
+      "format": "FL"
+    },
+    {
+      "name": "Soundgoodizer",
+      "format": "FL"
+    },
+    {
+      "name": "SQ80 V",
+      "format": "VST3"
+    },
+    {
+      "name": "SRX BRASS",
+      "format": "VST3"
+    },
+    {
+      "name": "SRX DANCE TRAX",
+      "format": "VST3"
+    },
+    {
+      "name": "SRX ELECTRIC PIANO",
+      "format": "VST3"
+    },
+    {
+      "name": "SRX KEYBOARDS",
+      "format": "VST3"
+    },
+    {
+      "name": "SRX PIANO 1",
+      "format": "VST3"
+    },
+    {
+      "name": "SRX PIANO 2",
+      "format": "VST3"
+    },
+    {
+      "name": "SRX STRINGS",
+      "format": "VST3"
+    },
+    {
+      "name": "SRX STUDIO",
+      "format": "VST3"
+    },
+    {
+      "name": "SRX WORLD",
+      "format": "VST3"
+    },
+    {
+      "name": "Stage-73 V2",
+      "format": "VST3"
+    },
+    {
+      "name": "StageOne",
+      "format": "VST3",
+      "version": "52107.18440.47947.5631"
+    },
+    {
+      "name": "Synclavier V",
+      "format": "VST3"
+    },
+    {
+      "name": "Synthi V",
+      "format": "VST3"
+    },
+    {
+      "name": "SYSTEM-1",
+      "format": "VST3"
+    },
+    {
+      "name": "SYSTEM-100",
+      "format": "VST3"
+    },
+    {
+      "name": "SYSTEM-8",
+      "format": "VST3"
+    },
+    {
+      "name": "Sytrus",
+      "format": "FL"
+    },
+    {
+      "name": "TB-303",
+      "format": "VST3"
+    },
+    {
+      "name": "Timeless 3",
+      "format": "VST3",
+      "version": "3.0.8.49"
+    },
+    {
+      "name": "Toxic Biohazard",
+      "format": "FL"
+    },
+    {
+      "name": "TR-606",
+      "format": "VST3"
+    },
+    {
+      "name": "TR-707",
+      "format": "VST3"
+    },
+    {
+      "name": "TR-727",
+      "format": "VST3"
+    },
+    {
+      "name": "TR-808",
+      "format": "VST3"
+    },
+    {
+      "name": "TR-909",
+      "format": "VST3"
+    },
+    {
+      "name": "Trackspacer25",
+      "format": "VST3",
+      "version": "2.5.10.0"
+    },
+    {
+      "name": "Transient Processor",
+      "format": "FL"
+    },
+    {
+      "name": "Transistor Bass",
+      "format": "FL"
+    },
+    {
+      "name": "TripleCheese(x64)",
+      "format": "VST3"
+    },
+    {
+      "name": "Tuner",
+      "format": "FL"
+    },
+    {
+      "name": "Twin 3",
+      "format": "VST3",
+      "version": "3.0.5.64"
+    },
+    {
+      "name": "ValhallaDelay",
+      "format": "VST3",
+      "version": "2.5.0.0"
+    },
+    {
+      "name": "ValhallaDelay_x64",
+      "format": "VST2",
+      "version": "2.5.0.0"
+    },
+    {
+      "name": "ValhallaFreqEcho",
+      "format": "VST3",
+      "version": "1.2.0.0"
+    },
+    {
+      "name": "ValhallaFreqEcho_x64",
+      "format": "VST2",
+      "version": "1.2.0.0"
+    },
+    {
+      "name": "ValhallaPlate",
+      "format": "VST3",
+      "version": "1.6.3.0"
+    },
+    {
+      "name": "ValhallaPlate_x64",
+      "format": "VST2",
+      "version": "1.6.3.0"
+    },
+    {
+      "name": "ValhallaRoom",
+      "format": "VST3",
+      "version": "2.0.5.0"
+    },
+    {
+      "name": "ValhallaRoom_x64",
+      "format": "VST2",
+      "version": "2.0.5.0"
+    },
+    {
+      "name": "ValhallaShimmer",
+      "format": "VST3",
+      "version": "1.2.2.0"
+    },
+    {
+      "name": "ValhallaShimmer_x64",
+      "format": "VST2",
+      "version": "1.2.2.0"
+    },
+    {
+      "name": "ValhallaSpaceModulator",
+      "format": "VST3",
+      "version": "1.1.6.0"
+    },
+    {
+      "name": "ValhallaSpaceModulator_x64",
+      "format": "VST2",
+      "version": "1.1.6.0"
+    },
+    {
+      "name": "ValhallaSupermassive",
+      "format": "VST3",
+      "version": "3.0.0.0"
+    },
+    {
+      "name": "ValhallaSupermassive_x64",
+      "format": "VST2",
+      "version": "3.0.0.0"
+    },
+    {
+      "name": "ValhallaUberMod",
+      "format": "VST3",
+      "version": "1.1.6.0"
+    },
+    {
+      "name": "ValhallaUberMod_x64",
+      "format": "VST2",
+      "version": "1.1.6.0"
+    },
+    {
+      "name": "ValhallaVintageVerb",
+      "format": "VST3",
+      "version": "4.0.5.0"
+    },
+    {
+      "name": "ValhallaVintageVerb_x64",
+      "format": "VST2",
+      "version": "4.0.5.0"
+    },
+    {
+      "name": "VFX Color Mapper",
+      "format": "FL"
+    },
+    {
+      "name": "VFX Envelope",
+      "format": "FL"
+    },
+    {
+      "name": "VFX Key Mapper",
+      "format": "FL"
+    },
+    {
+      "name": "VFX Keyboard Splitter",
+      "format": "FL"
+    },
+    {
+      "name": "VFX Level Scaler",
+      "format": "FL"
+    },
+    {
+      "name": "VFX Sequencer",
+      "format": "FL"
+    },
+    {
+      "name": "Vintage Chorus",
+      "format": "FL"
+    },
+    {
+      "name": "Vintage Phaser",
+      "format": "FL"
+    },
+    {
+      "name": "Vocoder V",
+      "format": "VST3"
+    },
+    {
+      "name": "Vocodex",
+      "format": "FL"
+    },
+    {
+      "name": "Volcano 3",
+      "format": "VST3",
+      "version": "3.0.7.58"
+    },
+    {
+      "name": "VOX Continental V2",
+      "format": "VST3"
+    },
+    {
+      "name": "Wasp",
+      "format": "FL"
+    },
+    {
+      "name": "Wasp XT",
+      "format": "FL"
+    },
+    {
+      "name": "Wave Candy",
+      "format": "FL"
+    },
+    {
+      "name": "Wave Traveller",
+      "format": "FL"
+    },
+    {
+      "name": "Wurli V3",
+      "format": "VST3"
+    },
+    {
+      "name": "XV-5080",
+      "format": "VST3"
+    },
+    {
+      "name": "ZGameEditor Visualizer",
+      "format": "FL"
+    }
+  ]
+}

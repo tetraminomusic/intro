@@ -1,0 +1,29 @@
+{
+  "ignoreUnused": true,
+  "collectSamples": true,
+  "organizeAudio": true,
+  "sendBackup": false,
+  "alwaysInclude": null,
+  "lfsExtensions": [
+    "wav",
+    "mp3",
+    "flac",
+    "ogg",
+    "aif",
+    "aiff",
+    "m4a",
+    "wv",
+    "rx2",
+    "rex",
+    "sf2",
+    "opus",
+    "zip",
+    "mp4",
+    "mov",
+    "dwp",
+    "nmsv",
+    "fxp",
+    "fxb",
+    "vstpreset"
+  ]
+}

@@ -1,0 +1,33 @@
+ПЛАГИНЫ ПРОЕКТА — файл генерирует «Программа Узбека» при каждой отправке, руками не править
+==============================================================================
+Проект сохранён в FL Studio 21.2.3.4004
+Участник: пидор            Windows  FL 21.2.3.4004
+
+[✓] VST3  Analog Lab V — Arturia
+        пидор:           есть
+[✓] VST3  Cramit — Sixth Sample
+        пидор:           есть v1.2.3.0
+[✓] VST3  D-50 — Roland Cloud
+        пидор:           есть
+[✓] VST3  Echo Cat — Wavesfactory
+        пидор:           есть v1.0.1.0
+[✓] VST3  FabFilter Pro-MB — FabFilter
+        пидор:           есть v1.3.1.27
+[✓] VST3  JD-800 — Roland Cloud
+        пидор:           есть
+[✓] VST3  MODO BASS — IK Multimedia
+        пидор:           есть v1.5.2.0
+[✓] VST3  soothe2_x64 — oeksound
+        пидор:           есть v1.1.2.0
+[✓] VST3  TR-808 — Roland Cloud
+        пидор:           есть
+[✓] VST3  ValhallaDelay — Valhalla DSP, LLC
+        пидор:           есть v2.5.0.0
+[✓] VST3  ValhallaVintageVerb — Valhalla DSP, LLC
+        пидор:           есть v4.0.5.0
+[✓] VST2  FabFilter Pro-Q 4 — FabFilter
+        пидор:           есть v4.0.1.6
+[✓] FL    FPC
+        пидор:           есть
+[✓] FL    Fruity Stereo Enhancer
+        пидор:           есть

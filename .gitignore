@@ -1,0 +1,10 @@
+# Программа Узбека — служебное
+.flsync-local/
+*autosave*.flp
+*overwritten*.flp
+*.flsync-tmp
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+/[Bb]ackup/

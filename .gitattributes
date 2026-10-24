@@ -1,0 +1,22 @@
+# Программа Узбека: большие бинарные файлы → Git LFS, проекты .flp не мерджатся
+*.[fF][lL][pP] binary
+*.[wW][aA][vV] filter=lfs diff=lfs merge=lfs -text
+*.[mM][pP]3 filter=lfs diff=lfs merge=lfs -text
+*.[fF][lL][aA][cC] filter=lfs diff=lfs merge=lfs -text
+*.[oO][gG][gG] filter=lfs diff=lfs merge=lfs -text
+*.[aA][iI][fF] filter=lfs diff=lfs merge=lfs -text
+*.[aA][iI][fF][fF] filter=lfs diff=lfs merge=lfs -text
+*.[mM]4[aA] filter=lfs diff=lfs merge=lfs -text
+*.[wW][vV] filter=lfs diff=lfs merge=lfs -text
+*.[rR][xX]2 filter=lfs diff=lfs merge=lfs -text
+*.[rR][eE][xX] filter=lfs diff=lfs merge=lfs -text
+*.[sS][fF]2 filter=lfs diff=lfs merge=lfs -text
+*.[oO][pP][uU][sS] filter=lfs diff=lfs merge=lfs -text
+*.[zZ][iI][pP] filter=lfs diff=lfs merge=lfs -text
+*.[mM][pP]4 filter=lfs diff=lfs merge=lfs -text
+*.[mM][oO][vV] filter=lfs diff=lfs merge=lfs -text
+*.[dD][wW][pP] filter=lfs diff=lfs merge=lfs -text
+*.[nN][mM][sS][vV] filter=lfs diff=lfs merge=lfs -text
+*.[fF][xX][pP] filter=lfs diff=lfs merge=lfs -text
+*.[fF][xX][bB] filter=lfs diff=lfs merge=lfs -text
+*.[vV][sS][tT][pP][rR][eE][sS][eE][tT] filter=lfs diff=lfs merge=lfs -text

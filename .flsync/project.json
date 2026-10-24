@@ -1,0 +1,643 @@
+{
+  "generated": "",
+  "flVersion": "21.2.3.4004",
+  "plugins": [
+    {
+      "name": "Analog Lab V",
+      "internal": "Fruity Wrapper",
+      "vendor": "Arturia",
+      "format": "VST3",
+      "where": "channel"
+    },
+    {
+      "name": "Cramit",
+      "internal": "Fruity Wrapper",
+      "vendor": "Sixth Sample",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "D-50",
+      "internal": "Fruity Wrapper",
+      "vendor": "Roland Cloud",
+      "format": "VST3",
+      "where": "channel"
+    },
+    {
+      "name": "Echo Cat",
+      "internal": "Fruity Wrapper",
+      "vendor": "Wavesfactory",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "FabFilter Pro-MB",
+      "internal": "Fruity Wrapper",
+      "vendor": "FabFilter",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "JD-800",
+      "internal": "Fruity Wrapper",
+      "vendor": "Roland Cloud",
+      "format": "VST3",
+      "where": "channel"
+    },
+    {
+      "name": "MODO BASS",
+      "internal": "Fruity Wrapper",
+      "vendor": "IK Multimedia",
+      "format": "VST3",
+      "where": "channel"
+    },
+    {
+      "name": "soothe2_x64",
+      "internal": "Fruity Wrapper",
+      "vendor": "oeksound",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "TR-808",
+      "internal": "Fruity Wrapper",
+      "vendor": "Roland Cloud",
+      "format": "VST3",
+      "where": "channel"
+    },
+    {
+      "name": "ValhallaDelay",
+      "internal": "Fruity Wrapper",
+      "vendor": "Valhalla DSP, LLC",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "ValhallaVintageVerb",
+      "internal": "Fruity Wrapper",
+      "vendor": "Valhalla DSP, LLC",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "FabFilter Pro-Q 4",
+      "internal": "Fruity Wrapper",
+      "vendor": "FabFilter",
+      "format": "VST2",
+      "where": "mixer"
+    },
+    {
+      "name": "FPC",
+      "internal": "FPC",
+      "format": "FL",
+      "where": "channel"
+    },
+    {
+      "name": "Fruity Stereo Enhancer",
+      "internal": "Fruity Stereo Enhancer",
+      "format": "FL",
+      "where": "mixer"
+    }
+  ],
+  "samples": [
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_1.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_2.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_4.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_6.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_7.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_8.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_9.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_45.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_46.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_47.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_48.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_49.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_50.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_51.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_52.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_53.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_54.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_10.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_11.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_12.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_13.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_14.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_15.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_16.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_17.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_55.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_56.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_57.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_58.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_59.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_61.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_62.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_63.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_64.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_65.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_18.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_19.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_20.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_21.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_22.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_23.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_24.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_25.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_26.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_27.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_28.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_29.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_30.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_31.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_32.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_35.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_36.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_37.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_38.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_39.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_40.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_41.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_42.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_43.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_44.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_82.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_83.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_84.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_67.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_68.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_69.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_70.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_71.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_72.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_73.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_74.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_75.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_76.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_77.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_78.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_79.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "untitled_2026-04-04 17-04-11_insert 1 - part_80.wav",
+      "flps": [
+        "интро.flp"
+      ],
+      "embedded": true
+    }
+  ]
+}
